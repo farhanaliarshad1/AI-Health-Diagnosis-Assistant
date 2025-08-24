@@ -1,4 +1,4 @@
-# 🩺 AI-Health-Diagnosis-Assistant (Generative AI)
+# 🩺 Medical Chatbot with LLMs LangChain Pinecone Flask-AWS
 
 A full-stack **AI-powered medical assistant** that uses a trusted medical book as the knowledge base, performs **semantic search** with Pinecone, and runs **LLaMA 3 locally** for inference - **no OpenAI API needed**.
 
